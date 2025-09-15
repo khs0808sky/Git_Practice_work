@@ -3,8 +3,17 @@ git branch
 git branch --all
 
 git add .
+
+git revert <commit hash>
+git reset --hard HEAD~1
+
+
 git commit -m "#####"
 git commit -am "######"
+
+
+
+
 
 // make branch
 git branch ###
