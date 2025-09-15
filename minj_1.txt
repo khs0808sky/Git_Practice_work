@@ -1,0 +1,39 @@
+git status
+git branch
+git branch --all
+
+git add .
+git commit -m "#####"
+git commit -am "######"
+
+// make branch
+git branch ###
+
+// modify branch
+git branch -m ###
+
+// delete branch
+git branch -d ###
+
+// change work branch
+git switch ###
+
+// merge branch
+git merge ###
+
+// cancle merge
+git merge --abort
+
+
+git fetch
+git pull
+
+// github ->  local
+git clone "http"
+git switch -t origin/###
+
+// local -> github branch
+git push -u origin ###
+
+// delete github branch
+git push origin --delete ###
