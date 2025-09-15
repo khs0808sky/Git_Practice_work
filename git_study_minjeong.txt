@@ -1,0 +1,10 @@
+git_study_minjeong
+
+Today we are learn Git and Git hub.
+Let's study git with professor Seo.
+
+date: 2025.09.15.
+
+Our Git master is Kim Hyunsoo.
+We trust him.
+
