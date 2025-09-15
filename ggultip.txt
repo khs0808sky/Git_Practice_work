@@ -1,0 +1,5 @@
+많은 사이트에서 selenium을 차단 시도 ->  데이터 누출
+감지가 되지 않는 브라우저를 사용
+!pip install undetected-chromedriver
+
+import undetected_chromedriver as uc
